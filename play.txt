@@ -9,3 +9,5 @@ Pooja: Pick it up if it bothers you.
 Lady: No. You'll pick it up.
 
 Pooja: You dont tell me what to do.
+
+Lady: I CAN tell you what to do.
