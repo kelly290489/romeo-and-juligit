@@ -5,3 +5,5 @@ Pooja: I'm sorry, I kicked it by mistake.
 Lady: You can't kick it by mistake!
 
 Pooja: Pick it up if it bothers you.
+
+Lady : No.
